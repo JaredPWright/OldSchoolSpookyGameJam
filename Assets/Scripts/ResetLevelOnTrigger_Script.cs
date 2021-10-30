@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 // using UnityEngine.UI; //Uncomment if using a loseScreen
 // using TMPro; //Uncomment if using a loseScreen
 
-public class ResetLevelOnTrigger_Script : Monobehavior
+public class ResetLevelOnTrigger_Script : MonoBehaviour
 {
     //public GameObject loseScreen; //Uncomment if using a loseScreen
 
