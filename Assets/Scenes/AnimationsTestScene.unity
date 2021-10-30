@@ -123,6 +123,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+BossAnimations
 --- !u!1 &1044161986
 GameObject:
   m_ObjectHideFlags: 0
@@ -327,7 +328,9 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1431606632
+=======
+main
+--- !u!1 &1044161986
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -410,6 +413,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+BossAnimations
 --- !u!1 &1891053174
 GameObject:
   m_ObjectHideFlags: 0
@@ -514,7 +518,9 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1929175097
+=======
+main
+--- !u!1 &1891053174
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -610,7 +616,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1929175097}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+BossAnimations
   m_LocalPosition: {x: -1.89, y: -2.52, z: 0}
+=======
+  m_LocalPosition: {x: -1.89, y: -2.52, z: 0}
+main
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
